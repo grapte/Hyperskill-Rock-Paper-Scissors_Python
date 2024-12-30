@@ -1,26 +1,4 @@
-# Write your code here
 import random
-
-# # computer draws with user
-# draw = {
-#     'rock': 'rock',
-#     'paper': 'paper',
-#     'scissors': 'scissors'
-# }
-#
-# # computer lose to user
-# loss = {
-#     'rock': 'scissors',
-#     'paper': 'rock',
-#     'scissors': 'paper'
-# }
-#
-# # computer wins user
-# win = {
-#     'rock': 'paper',
-#     'paper': 'scissors',
-#     'scissors': 'rock'
-# }
 
 user_hand = None
 draw, loss, win = {}, {}, {}
